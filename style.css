@@ -2,13 +2,30 @@
     font-family: "calibri", Times, serif;
   }
  
- /* Add a black background color to the top navigation */
+#jackson{
+  position: relative;
+  top: -300px;
+  left: 1450px;
+}
+#coffee{
+  position: relative;
+
+}
+#partij{
+  position: relative;
+  left: 890px;
+  top: -430px;
+}
+#kickboksen{
+  position: relative;
+  top: -650px;
+  left: 800px;
+}
 .topnav {
     background-color: #333;
     overflow: hidden;
   }
   
-  /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
     color: #f2f2f2;
@@ -17,14 +34,12 @@
     text-decoration: none;
     font-size: 17px;
   }
-  
-  /* Change the color of links on hover */
+
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
   
-  /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
@@ -33,3 +48,4 @@
 body{
     background-color: rgb(0, 217, 255);
 }
+
