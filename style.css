@@ -50,6 +50,11 @@
   top: -440px;
   left: 10px;
 }
+#dean{
+  margin:auto;
+  display:block
+}
+
 
 .topnav {
     background-color: #333;
