@@ -7,25 +7,55 @@
   top: -300px;
   left: 1450px;
 }
-#coffee{
+#quiche{
   position: relative;
-
+  left: 800px;
+  top: -130px;
 }
 #partij{
   position: relative;
-  left: 890px;
-  top: -430px;
+  left: 880px;
+  top: -530px;
 }
 #kickboksen{
   position: relative;
-  top: -650px;
-  left: 800px;
+  top: -250px;
+  left: 500px;
 }
+#game{
+  position: relative;
+  top: -250px;
+  left: -460px;
+}
+#coffee{
+  position: relative;
+  left: 400px;
+  top: -450px;
+}
+#mschool{
+  position: relative;
+  top: -450px;
+}
+#bschool{
+  position: relative;
+  top: -700px;
+  left: -300px;
+}
+#acdc{
+  position: relative;
+  top: -380px;
+}
+#gitaarist{
+  position: relative;
+  top: -440px;
+  left: 10px;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
   }
-  
+
   .topnav a {
     float: left;
     color: #f2f2f2;
