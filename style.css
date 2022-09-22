@@ -54,7 +54,20 @@
   margin:auto;
   display:block
 }
-
+#hamster{
+  position: relative;
+  left: 300px;
+  top: 200px;
+}
+#goudvis{
+  position: relative;
+  left: 100px;
+}
+#didden{
+  position: relative;
+  top: -250px;
+  left: 200px;
+}
 
 .topnav {
     background-color: #333;
