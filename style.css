@@ -1,4 +1,4 @@
-.h1 {
+body {
     font-family: "calibri", Times, serif;
   }
  
@@ -19,14 +19,10 @@
 }
 #kickboksen{
   position: relative;
-  top: -250px;
-  left: 500px;
+  top: -590px;
+  left: 800px;
 }
-#game{
-  position: relative;
-  top: -250px;
-  left: -460px;
-}
+
 #coffee{
   position: relative;
   left: 400px;
@@ -67,6 +63,26 @@
   position: relative;
   top: -250px;
   left: 200px;
+}
+#game{
+  position: relative;
+  top: -250px;
+  left: -590px;
+}
+#ark{
+  position: relative;
+  left: -594px;
+  top: -180px;
+}
+#pokemon{
+  position: relative;
+  top: -180px;
+  left: -600px;
+}
+#godofwar{
+  position: relative;
+  top: -484px;
+  left: 990px;
 }
 
 .topnav {
